@@ -1,0 +1,8 @@
+El directori DATA conte:
+	- un fitxer usuaris.json amb un usuari administrador que l'aplicacio carregara en iniciar-se
+	- Dos datasets de prova (movies i series). Important: el dataset de series esta modificat
+	per a que no es superposin identificadors d'items.
+	- Un cop es surti de l'aplicacio per primera vegada es crearan diferents fitxers que fara
+	servir posteriorment per a recuperar l'estat (valoracions, items etc).
+
+El directori LIB conte les llibreries que necessita el programa per a funcionar.

@@ -1,0 +1,24 @@
+L'organitzacio per directoris es la seguent:
+- EXE: executables per a poder provar les funcionalitats.
+- FONTS: codi font del projecte organitzat per packages.
+- DOCS: documentacio del projecte. Hi ha un subdirectori dedicat per la segona entrega.
+- LIBS: llibreries utilitzades, hi ha la de junit i un parsejador de json.
+
+Per a compilar un driver:
+1- make
+2- make FQN=domain.drivers.DriverAvaluacio N=DriverAvaluacio jarDriver
+FQN = es el nom de la classe amb el main seguint l'estructura de packages.
+N = es el nom de la classe.
+
+Quan es compila un driver s'ha de copiar la corresponent carpeta DATA
+degudament classificada a EXE/domain/drivers/XXX/DATA
+
+El jar es genera a la ruta del Makefile, si es mou de lloc, la carpeta
+LIB ha d'anar juntament amb el jar.
+
+Per a compilar el projecte principal
+1- make
+2- make main
+
+Es recomana moure el .jar al directori EXE/principal que te una carpeta DATA amb
+un usuari creat.

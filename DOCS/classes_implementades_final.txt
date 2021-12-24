@@ -1,0 +1,66 @@
+* Dades: 
+	CtrlDades.java Jia Long
+	CSVUtil.java Roberto
+	CtrlAvaluacioCSV.java Roberto
+	CtrlItemCSV.java Roberto
+	CtrlRatingsCSV.java Roberto
+	JsonParser.java Roberto
+
+* Algorismes: 
+	Algorisme.java Roberto
+	ContentBasedFiltering.java Jia Long
+	Distancia.java Jia Long
+	Kmeans.java Roberto
+	SlopeOne.java Roberto
+	Hibrid.java Roberto
+
+* Domini: 
+	Usuari.java Jia Long
+	Valoracio.java: Jia Long
+	Item.java: Jia Long
+	Recomanacio.java: Jia Long
+	TipusItem.java: Jia Long
+	Atribut.java Jia Long
+	AtributNumeric.java Pau
+	AtributCategoric.java Pau
+	AtributBoolea.java Pau
+	AtributDescriptiu.java Pau
+	Avaluacio.java Roberto
+	Classificacio.java Roberto
+	CtrlDomini.java Jia Long
+	CtrlItem.java  You
+	CtrlRecomanacio.java Roberto
+	CtrlUsuari.java Jia Long
+	CtrlValoracio.java Jia Long
+
+* Testing: 
+	DriverAtribut.java Jia Long
+	DriverAvaluacio.java Roberto
+	DriverClassificacio.java Roberto
+	DriverContentBasedFiltering.java Jia Long
+	DriverCtrlDomini.java Roberto
+	DriverCtrlItem.java You
+	DriverCtrRecomanacio.java Roberto
+	DriverCtrlUsuari.java Jia Long
+	DriverCtrlValoracio.java Jia Long
+	DriverDistancia.java Jia Long
+	DriverHibrid.java Roberto
+	DriverItem.java Jia Long
+	DriverKMeans.java Roberto
+	DriverSlopeOne.java Roberto
+	DriverTipusItem.java Jia Long
+	DriverUsuari.java You
+	DriverValoracio.java Jia Long
+	DriverJsonParser.java Roberto
+	DriverCtrlItemCSV.java Roberto
+	UnitTestDistancia.java Roberto
+
+* Presentacio
+	CtrlPresentacio.java: You
+	VistaGestioItems.java: Roberto
+	VistaGestioPerfil.java: You
+	VistaLoginRegistre.java: You
+	VistaPrincipalAdmin.java: Roberto
+	VistaPrincipalUsuari.java: Roberto
+	VistaGestioTipusItem.java: You
+	VistaGestioTipusAtribut.java: Roberto

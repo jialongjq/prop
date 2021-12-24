@@ -1,0 +1,22 @@
+{"valoracions": [
+  {
+    "puntuacio": 4,
+    "idUsuari": 1,
+    "idItem": 2321
+  },
+  {
+    "puntuacio": 4.5,
+    "idUsuari": 1,
+    "idItem": 25
+  },
+  {
+    "puntuacio": 4.5,
+    "idUsuari": 1,
+    "idItem": 590
+  },
+  {
+    "puntuacio": 5,
+    "idUsuari": 1,
+    "idItem": 2671
+  }
+]}

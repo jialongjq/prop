@@ -1,0 +1,11 @@
+L'organitzacio es la seguent:
+- data: tots els fitxers fonts relacionats amb la persistencia.
+- domain: tots els fitxers fonts relacionats amb el domini. Conte tambe el subdirectori 
+algorismes nomes amb els fonts relacionats amb la part dels algorismes (Kmeans, slopeOne, KNN)
+- unittest: conte el test unitari de la classe distancia.
+- utils: utilitats fetes servir a diverses classes.
+
+Els directoris domain i data tenen un subdirectori drivers amb la implementacio dels drivers
+per a provar certes funcionalitats.
+
+Per a veure en mes detall en que consisteix cada classe, veure la documentacio de la carpeta docs.

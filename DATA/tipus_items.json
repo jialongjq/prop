@@ -1,0 +1,120 @@
+{"tipus_items": [
+  {
+    "tipusAtributs": [
+      {
+        "value": "DESCRIPTIU",
+        "key": "original_language"
+      },
+      {
+        "value": "CATEGORIC",
+        "key": "keywords"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "imdb_id"
+      },
+      {
+        "value": "BOOLEA",
+        "key": "video"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "title"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "revenue"
+      },
+      {
+        "value": "CATEGORIC",
+        "key": "genres"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "popularity"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "production_countries"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "id"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "vote_count"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "budget"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "overview"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "original_title"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "runtime"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "poster_path"
+      },
+      {
+        "value": "CATEGORIC",
+        "key": "spoken_languages"
+      },
+      {
+        "value": "CATEGORIC",
+        "key": "production_companies"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "release_date"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "vote_average"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "belongs_to_collection"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "tagline"
+      },
+      {
+        "value": "BOOLEA",
+        "key": "adult"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "homepage"
+      },
+      {
+        "value": "DESCRIPTIU",
+        "key": "status"
+      }
+    ],
+    "nom": "movies"
+  },
+  {
+    "tipusAtributs": [
+      {
+        "value": "BOOLEA",
+        "key": "test"
+      },
+      {
+        "value": "NUMERIC",
+        "key": "id"
+      }
+    ],
+    "nom": "test"
+  }
+]}
